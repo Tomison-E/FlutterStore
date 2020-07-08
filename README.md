@@ -2,6 +2,22 @@
 
 A new Flutter project.
 
+
+## APP VIEW
+![A](screenshots/A.PNG)
+
+
+
+![B](screenshots/B.PNG)
+
+
+
+![C](screenshots/C.PNG)
+
+
+
+![D](screenshots/D.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
